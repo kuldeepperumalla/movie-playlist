@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kuldeepperumalla/movie-playlist/static/css/main.dd668bfd.css",
+    "main.js": "/kuldeepperumalla/movie-playlist/static/js/main.8b1c5a4f.js",
+    "index.html": "/kuldeepperumalla/movie-playlist/index.html",
+    "main.dd668bfd.css.map": "/kuldeepperumalla/movie-playlist/static/css/main.dd668bfd.css.map",
+    "main.8b1c5a4f.js.map": "/kuldeepperumalla/movie-playlist/static/js/main.8b1c5a4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd668bfd.css",
+    "static/js/main.8b1c5a4f.js"
+  ]
+}
